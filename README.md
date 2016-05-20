@@ -1,4 +1,4 @@
-Project : Onyx
+Project : Locus
 
 Android application to travel at Warp speed
 
